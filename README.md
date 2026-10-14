@@ -8,7 +8,7 @@ Starwhisper sits on top of the Roblox window and looks like Roblox's own chat, b
 
 ## Download
 
-Get the latest **Starwhisper-Setup-x.y.z.exe** from [Releases](https://github.com/Basementt/starwhisper-releases/releases/latest) and run it. Installed apps update themselves with one click.
+Get the latest **Starwhisper-Setup-x.y.z.exe** from [Releases](https://github.com/Kalinakalinka/starwhisper-releases/releases/latest) and run it. Installed apps update themselves with one click.
 
 The installer is not code-signed, so Windows SmartScreen may show a warning. Choose **More info → Run anyway**.
 
